@@ -3,7 +3,7 @@ namespace Modules;
 
 require_once('vendor/autoload.php');
 
-echo '<h1>Lab 1</h1>';
+echo '<h1>Laba 1</h1>';
 
 //Создаем несколько работников для тестирования валидации
 $employee_1 = new Employee(1, 'Иван', '12500', '20.10.2013');
